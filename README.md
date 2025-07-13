@@ -1,0 +1,2 @@
+# evd
+Ethiopic Variation Database
