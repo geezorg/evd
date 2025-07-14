@@ -2,7 +2,7 @@
 
 The Ethiopian Variation Database is a subject of the EMUFI initiative that has as its objective the cataloging
 and publication of a simple database of the variant glyphs within the Ethiopic inventory. The variation database
-is developed to help organize, review, and manage variant collections for EMFUI project. The project artifacts
+is developed to help organize, review, and manage variant collections for the EMFUI project. The project artifacts
 will be consumed directly by EMUFI as its primary resource for variants.
 
 
