@@ -1,0 +1,63 @@
+# Unicode Variation Sequences
+# Base Selector GlyphName
+#
+#
+#
+$121F $E0100 mwa-ethi.cohen1
+$121F $E0101 mwa-ethi.cohen2
+$122F $E0100 rwa-ethi.cohen3
+$1287 $E0100 xoa-ethi.alt3
+$1288 $E0100 xwa-ethi.handwriting
+$128A $E0100 xwi-ethi.handwriting
+$128B $E0100 xwaa-ethi.handwriting
+$128C $E0100 xwee-ethi.handwriting
+$128D $E0100 xwe-ethi.handwriting
+$1297 $E0100 nwa-ethi.cohen0
+$1298 $E0100 nya-ethi.gumuz
+$1299 $E0100 nyu-ethi.gumuz
+$129A $E0100 nyi-ethi.gumuz
+$129B $E0100 nyaa-ethi.gumuz
+$129C $E0100 nyee-ethi.gumuz
+$129D $E0100 nye-ethi.gumuz
+$129E $E0100 nyo-ethi.gumuz
+$129F $E0100 nywa-ethi.gumuz
+$129F $E0101 nywa-ethi.cohen8
+$12C3 $E0100 kxwaa-ethi.cohen7
+$12E0 $E0100 zha-ethi.chaine
+$12E1 $E0100 zhu-ethi.chaine
+$12E3 $E0100 zhaa-ethi.chaine
+$12E4 $E0100 zhee-ethi.chaine
+$12E5 $E0100 zhe-ethi.chaine
+$12E5 $E0101 zhe-ethi.cohen6
+$12E6 $E0100 zho-ethi.chaine
+$12F8 $E0100 dda-ethi.oromo
+$12F9 $E0100 ddu-ethi.oromo
+$12FA $E0100 ddi-ethi.oromo
+$12FB $E0100 ddaa-ethi.oromo
+$12FC $E0100 ddee-ethi.oromo
+$12FD $E0100 dde-ethi.oromo
+$12FE $E0100 ddo-ethi.oromo
+$1313 $E0100 gwaa-ethi.alonestokes
+$1313 $E0101 gwaa-ethi.seb0
+$1318 $E0100 gga-ethi.alt1
+$1319 $E0100 ggu-ethi.alt1
+$131A $E0100 ggi-ethi.alt1
+$131B $E0100 ggaa-ethi.alt1
+$131C $E0100 ggee-ethi.alt1
+$131D $E0100 gge-ethi.alt1
+$131E $E0100 ggo-ethi.alt1
+$131F $E0100 ggwaa-ethi.type
+$1335 $E0100 phe-ethi.praetorius
+$133F $E0100 tswa-ethi.alt4
+$134F $E0100 fwa-ethi.cohen4
+$134F $E0101 fwa-ethi.cohen5
+$1358 $E0100 rya-ethi.ala1
+$1359 $E0100 mya-ethi.ala2
+$1381 $E0100 mwi-ethi.seb5
+$1381 $E0101 mwi-ethi.sebLes1
+$1383 $E0100 mwe-ethi.seb4
+$1383 $E0101 mwe-ethi.sebLes4
+$1385 $E0100 bwi-ethi.seb3
+$138A $E0100 fwee-ethi.trad
+$138B $E0100 fwe-ethi.sebLes3
+$138D $E0100 pwi-ethi.seb3
